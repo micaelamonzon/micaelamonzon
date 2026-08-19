@@ -32,13 +32,13 @@ Sistema operativo distribuido multi-módulo en C (Kernel Scheduler, Kernel Memor
 
 📎[Sistema Operativo en C](https://github.com/micaelamonzon/tp-ssoo-1c2026/tree/main)
 
-- <b>Juego estilo Geometry Dash — Game, Wollok.</b>
+- <b>Juego estilo Geometry Dash - Game, Wollok.</b>
 
 Videojuego de plataformas desarrollado con Wollok, aplicando programación orientada a objetos.
 
 📎[Game](https://github.com/micaelamonzon/tp-pdp-game/tree/master) 
 
-- <b>Mini TP - API, Java.</b>
+- <b>Climalert - API, Java.</b>
 
 Servicio autónomo en Spring Boot que consume la API de WeatherAPI, analiza condiciones críticas de temperatura y humedad, y envía alertas automáticas por correo electrónico.
 
