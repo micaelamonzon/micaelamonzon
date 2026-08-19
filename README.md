@@ -20,6 +20,12 @@
 <br>
 <h2>👨‍💻 Proyectos Academicos:</h2>
 
+- <b>Sistema de Gestión y Trazabilidad de Donaciones - DonaTrack, Java.</b> 🚧 En desarrollo
+
+Plataforma de gestión de donaciones bajo arquitectura cliente-servidor distribuida. API REST con Spring Boot, MySQL y modelado con UML/DER.
+
+📎[Plataforma](https://github.com/micaelamonzon/tp-disenio-2026.git)
+
 - <b>Simulador de Sistema Operativo - Plug & Pray, C.</b>
 
 Sistema operativo distribuido multi-módulo en C (Kernel Scheduler, Kernel Memory, CPU, IO, Memory Stick, Swap), comunicación por sockets entre múltiples máquinas.
