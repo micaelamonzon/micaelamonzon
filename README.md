@@ -4,7 +4,7 @@
 
 🌱 Aprendiendo sobre arquitectura de software, ciberseguridad y automatización de procesos
 
-📫 Contactame: mmonzonrostan@frba.utn.edu.ar
+📫 Contactame: monzonmica.05@gmail.com
 
 ## 🛠️ Stack
  
