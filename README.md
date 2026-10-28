@@ -24,7 +24,7 @@
 
 Plataforma de gestión de donaciones bajo arquitectura cliente-servidor distribuida. API REST con Spring Boot, MySQL y modelado con UML/DER.
 
-📎[Plataforma](https://github.com/micaelamonzon/tp-disenio-2026.git)
+📎[Plataforma](https://github.com/micaelamonzon/tp-disenio-2026-e5)
 
 - <b>Simulador de Sistema Operativo - Plug & Pray, C.</b>
 
